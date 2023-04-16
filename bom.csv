@@ -1,0 +1,5 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+CN1,JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal,1,Conn_01x03_Male,
+"H1, H2, H3, H4, H5, H6",MountingHole_4.5mm,6,MountingHole,
+"LED1, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED2, LED20, LED3, LED4, LED5, LED6, LED7, LED8, LED9",LED_PLCC-2,20,LED,
+"R1, R2, R3, R4",1210,4,R,
