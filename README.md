@@ -11,6 +11,7 @@ Pour déterminer la valeur de la résistance, je me suis basé sur les specs des
 * LED : 3V (moyenne) 20mA
 * R = (24V – ( 5 * 3V ) / 0.02A
 * R = 450Ω
+
 Comme 450Ω n’est pas une valeur standard, j’ai choisi 470Ω
 
 Cette carte est un clone d’une carte existante.
