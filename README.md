@@ -1,4 +1,4 @@
-# led-pcb-namco-noir
+# LED PCB Namco Noir
 Nomenclature :
 
 * Connecteur S3B-PH-SM4-TB (Qté 1)
